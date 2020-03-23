@@ -10,17 +10,29 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="assets/javascript/game.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
 </head>
 
 <body>
-    <div>
-        <h1>Crystal Collector</h1>
+
+
+    <div class="jumbotron">
+        <h1 class="display-4">Crystal Collector!</h1>
+        <p class="lead">You will be given a random number at the start of the game .
+            There are four crystals below. By click on a crystal you will add a specfic amount of points to your score
+            You win the game by matching your total score to the random number, you lose the game if your total score
+            goes above the random number.
+            The value of each crystal is hidden until you click on it.
+            Each time when the game starts, the game will change the value of each crystal.</p>
+       
     </div>
+
     <div class="instructions">
         <p>You will be given a random number at the start of the game . </p>
-        <p>There are four crystals below. By click on a crystal you will add a specfic amount of points to your score</p>
+        <p>There are four crystals below. By click on a crystal you will add a specfic amount of points to your score
+        </p>
         <p>You win the game by matching your total score to the random number, you lose the game if your total score
             goes above the random number.</p>
         <p>The value of each crystal is hidden until you click on it.</p>
@@ -41,20 +53,20 @@
         <p id="tScore"></p>
     </div>
 
-   <div class="crystals">
-    <div id="redCrystal">
-        <img src="assets/images/redCrystal.png" alt="redCrystal" width="150" height="150">
+    <div class="crystals">
+        <div id="redCrystal">
+            <img src="assets/images/redCrystal.png" alt="redCrystal" width="150" height="150">
+        </div>
+        <div id="blueCrystal">
+            <img src="assets/images/blueCrystal.png" alt="blueCrystal" width="150" height="150">
+        </div>
+        <div id="greenCrystal">
+            <img src="assets/images/greenCrystal.jpg" alt="greenCrystal" width="150" height="150">
+        </div>
+        <div id="purpleCrystal">
+            <img src="assets/images/purpleCrystal.png" alt="purpleCrystal" width="150" height="150">
+        </div>
     </div>
-    <div id="blueCrystal">
-        <img src="assets/images/blueCrystal.png" alt="blueCrystal" width="150" height="150">
-    </div>
-    <div id="greenCrystal">
-        <img src="assets/images/greenCrystal.jpg" alt="greenCrystal" width="150" height="150">
-    </div>
-    <div id="purpleCrystal">
-        <img src="assets/images/purpleCrystal.png" alt="purpleCrystal" width="150" height="150">
-    </div>
-   </div>
 
 </body>
 

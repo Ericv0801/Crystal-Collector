@@ -1,3 +1,12 @@
+.jumbotron{
+    width: 900px;
+    text-align: center;
+    margin-left: 18%;
+    margin-top: 5%;
+}
+
+
+
 body{background-color: silver;}
 h1{font-weight: bold;
     font-size: 24px;
