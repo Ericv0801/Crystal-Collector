@@ -3,12 +3,19 @@
     text-align: center;
     margin-left: 18%;
     margin-top: -15%;
-    display: inline-block
+    display: inline-block;
+    border: 20px solid red;
 }
 
 
 
-body{background-color: silver;}
+body{
+    background:url(../images/GemBack.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 h1{font-weight: bold;
     font-size: 24px;
     background-color: aqua;
