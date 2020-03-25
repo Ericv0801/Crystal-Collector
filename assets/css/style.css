@@ -56,6 +56,21 @@ text-align: center;
 margin-left: 35px;
 margin-top: 2%
 }
+.crystals{
+    margin-left: 30%;
+}
+#redCrystal{
+    display: inline-block;
+}
+#blueCrystal{
+    display: inline-block;
+}
+#greenCrystal{
+    display: inline-block;
+}
+#purpleCrystal{
+    display: inline-block;
+}
 
 
 
