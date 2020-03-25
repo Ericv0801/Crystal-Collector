@@ -4,7 +4,7 @@
     margin-left: 18%;
     margin-top: -15%;
     display: inline-block;
-    border: 20px solid red;
+    border: 20px solid silver;
 }
 
 
@@ -27,7 +27,10 @@ padding-bottom: 100px;
 line-height: 25px;}
 
 
-.winlosses{background-color: crimson;
+.winlosses{background-color: slategray;
+    margin-left: 5%;
+    top: 20%;
+    border: 5px solid silver;
     width: 80px;
     padding-bottom: 20px;
     line-height: 40px;
@@ -35,7 +38,9 @@ line-height: 25px;}
 
 }
 
-.randomNumber{background-color: coral;
+.randomNumber{background-color: slategray;
+    border: 5px solid silver;
+    text-align: center;
     width: 100px;
     padding-bottom: 40px;
     
