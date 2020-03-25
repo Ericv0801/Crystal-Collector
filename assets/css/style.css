@@ -51,7 +51,11 @@ line-height: 25px;}
 .totalScore{background-color: slategray;
     border: 5px solid silver;
 padding-bottom: 10px;
-width: 160px;}
+width: 160px;
+text-align: center;
+margin-left: 35px;
+margin-top: 2%
+}
 
 
 
