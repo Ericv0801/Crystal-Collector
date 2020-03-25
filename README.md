@@ -10,6 +10,9 @@ Users will be given a random number at the start of the game . There are four cr
 
 
 ## Instructions
+1. Check what the random number is.
+2. Click on the crystals to see what numbers they are equivalent to.
+3. Try and match the total number to the random number by clicking the gems.
 
 
 ## Technologies Used
