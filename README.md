@@ -12,4 +12,4 @@
 
 
 ## Authors
-- Eric Max Valivia
+- Eric Max Valivia - https://github.com/Ericv0801
