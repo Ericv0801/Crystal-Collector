@@ -16,6 +16,11 @@ Users will be given a random number at the start of the game . There are four cr
 
 
 ## Technologies Used
+- Html
+- CSS
+- Javascript
+- Jquery
+- Bootstrap
 
 
 ## Authors
