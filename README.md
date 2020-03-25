@@ -9,3 +9,7 @@
 
 
 ## Technologies Used
+
+
+## Authors
+- Eric Max Valivia
