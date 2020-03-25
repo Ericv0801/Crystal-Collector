@@ -4,7 +4,7 @@
     margin-left: 18%;
     margin-top: -15%;
     display: inline-block;
-    border: 20px solid silver;
+    border: 20px solid  slategray;
 }
 
 
@@ -18,7 +18,7 @@ body{
 }
 h1{font-weight: bold;
     font-size: 24px;
-    background-color: aqua;
+    background-color: slategray;
 }
 
 .instructions{ background-color: blue;
@@ -57,16 +57,21 @@ margin-left: 35px;
 margin-top: 2%
 }
 .crystals{
-    margin-left: 30%;
+    margin-left: 26%;
+    margin-top: -3%;
 }
 #redCrystal{
     display: inline-block;
+    
 }
 #blueCrystal{
     display: inline-block;
+    margin-left: 1%;
+    margin-right: 1%
 }
 #greenCrystal{
     display: inline-block;
+    margin-right: 3%
 }
 #purpleCrystal{
     display: inline-block;
